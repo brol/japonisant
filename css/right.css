@@ -1,0 +1,5 @@
+#top { background:url(../images/top2.jpg) top center no-repeat;}
+#content {float: left;}
+#sidebar { float:right; padding-right:20px; }
+#content { margin-top:-90px; padding-left:20px; width:520px; }
+.post,#comments,#comment-form,#pings, content-inner h3 {padding-left: 28px; }
